@@ -1,0 +1,15 @@
+#!/bin/bash
+
+mkdir <projectContainerName>
+dotnet new sln
+mkdir <projectName>
+cd <projectName>
+dotnet new classlib
+cd ..
+dotnet sln add <projectName>/<projectName>.csproj
+mkdir <projectName>.Tests
+cd <projectName>.Tests
+dotnet new nunit
+dotnet add reference ../<projectName>/<projectName>.csproj
+cd ..
+dotnet sln add ./<projectName>.Tests/<projectName>.Tests.csproj

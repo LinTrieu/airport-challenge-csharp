@@ -1,0 +1,17 @@
+/Users/student/Documents/cSharp/csharp-airport/airportChallenge.Tests/obj/Debug/netcoreapp2.2/airportChallenge.Tests.csprojAssemblyReference.cache
+/Users/student/Documents/cSharp/csharp-airport/airportChallenge.Tests/obj/Debug/netcoreapp2.2/airportChallenge.Tests.csproj.CoreCompileInputs.cache
+/Users/student/Documents/cSharp/csharp-airport/airportChallenge.Tests/obj/Debug/netcoreapp2.2/airportChallenge.Tests.AssemblyInfoInputs.cache
+/Users/student/Documents/cSharp/csharp-airport/airportChallenge.Tests/obj/Debug/netcoreapp2.2/airportChallenge.Tests.AssemblyInfo.cs
+/Users/student/Documents/cSharp/csharp-airport/airportChallenge.Tests/bin/Debug/netcoreapp2.2/NUnit3.TestAdapter.dll
+/Users/student/Documents/cSharp/csharp-airport/airportChallenge.Tests/bin/Debug/netcoreapp2.2/NUnit3.TestAdapter.pdb
+/Users/student/Documents/cSharp/csharp-airport/airportChallenge.Tests/bin/Debug/netcoreapp2.2/nunit.engine.netstandard.dll
+/Users/student/Documents/cSharp/csharp-airport/airportChallenge.Tests/bin/Debug/netcoreapp2.2/airportChallenge.Tests.deps.json
+/Users/student/Documents/cSharp/csharp-airport/airportChallenge.Tests/bin/Debug/netcoreapp2.2/airportChallenge.Tests.runtimeconfig.json
+/Users/student/Documents/cSharp/csharp-airport/airportChallenge.Tests/bin/Debug/netcoreapp2.2/airportChallenge.Tests.runtimeconfig.dev.json
+/Users/student/Documents/cSharp/csharp-airport/airportChallenge.Tests/bin/Debug/netcoreapp2.2/airportChallenge.Tests.dll
+/Users/student/Documents/cSharp/csharp-airport/airportChallenge.Tests/bin/Debug/netcoreapp2.2/airportChallenge.Tests.pdb
+/Users/student/Documents/cSharp/csharp-airport/airportChallenge.Tests/bin/Debug/netcoreapp2.2/airportChallenge.dll
+/Users/student/Documents/cSharp/csharp-airport/airportChallenge.Tests/bin/Debug/netcoreapp2.2/airportChallenge.pdb
+/Users/student/Documents/cSharp/csharp-airport/airportChallenge.Tests/obj/Debug/netcoreapp2.2/airportChallenge.Tests.csproj.CopyComplete
+/Users/student/Documents/cSharp/csharp-airport/airportChallenge.Tests/obj/Debug/netcoreapp2.2/airportChallenge.Tests.dll
+/Users/student/Documents/cSharp/csharp-airport/airportChallenge.Tests/obj/Debug/netcoreapp2.2/airportChallenge.Tests.pdb
