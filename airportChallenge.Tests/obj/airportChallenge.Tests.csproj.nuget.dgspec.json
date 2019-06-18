@@ -53,6 +53,10 @@
               "version": "[2.2.0, )",
               "autoReferenced": true
             },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.11.0, )"
+            },
             "NUnit3TestAdapter": {
               "target": "Package",
               "version": "[3.11.0, )"

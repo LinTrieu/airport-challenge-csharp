@@ -1,18 +1,19 @@
 using NUnit.Framework;
 using airportChallenge;
+using Moq;
 
 namespace airportChallenge.UnitTests
 {
     [TestFixture]
     public class AirportTests
     {
-        private Airport _airport; Plane _plane;
+        private Airport _airport; Mock<Plane> _plane;
 
         [SetUp]
         public void Init()
         {
             _airport = new Airport();
-            _plane = new Plane();
+            _plane = new Mock<Plane>();
         }
 
         [Test]
