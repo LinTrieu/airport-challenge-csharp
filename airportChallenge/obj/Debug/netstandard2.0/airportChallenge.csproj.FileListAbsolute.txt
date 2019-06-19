@@ -7,3 +7,12 @@
 /Users/student/Documents/cSharp/csharp-airport/airportChallenge/obj/Debug/netstandard2.0/airportChallenge.AssemblyInfo.cs
 /Users/student/Documents/cSharp/csharp-airport/airportChallenge/obj/Debug/netstandard2.0/airportChallenge.dll
 /Users/student/Documents/cSharp/csharp-airport/airportChallenge/obj/Debug/netstandard2.0/airportChallenge.pdb
+/Users/student/csharp/csharp-airport/airportChallenge/bin/Debug/netstandard2.0/airportChallenge.deps.json
+/Users/student/csharp/csharp-airport/airportChallenge/bin/Debug/netstandard2.0/airportChallenge.dll
+/Users/student/csharp/csharp-airport/airportChallenge/bin/Debug/netstandard2.0/airportChallenge.pdb
+/Users/student/csharp/csharp-airport/airportChallenge/obj/Debug/netstandard2.0/airportChallenge.csprojAssemblyReference.cache
+/Users/student/csharp/csharp-airport/airportChallenge/obj/Debug/netstandard2.0/airportChallenge.csproj.CoreCompileInputs.cache
+/Users/student/csharp/csharp-airport/airportChallenge/obj/Debug/netstandard2.0/airportChallenge.AssemblyInfoInputs.cache
+/Users/student/csharp/csharp-airport/airportChallenge/obj/Debug/netstandard2.0/airportChallenge.AssemblyInfo.cs
+/Users/student/csharp/csharp-airport/airportChallenge/obj/Debug/netstandard2.0/airportChallenge.dll
+/Users/student/csharp/csharp-airport/airportChallenge/obj/Debug/netstandard2.0/airportChallenge.pdb

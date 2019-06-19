@@ -15,10 +15,21 @@ namespace airportChallenge.UnitTests
         }
 
         [Test]
-        [Ignore("Awaiting plane implementation")]
         public void ReturnsInstanceOf()
         {
             Assert.IsInstanceOf(typeof(Plane), _plane);
         }
+
+        [Test]
+        public void canRespondToFlying()
+        {
+            //arange
+            var type = _plane.GetType();
+            //act
+
+            //assert
+            Assert.IsTrue(type.GetMethod("IsFlying") != null);
+        }
+
     }
 }

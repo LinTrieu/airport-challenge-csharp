@@ -4,8 +4,12 @@ namespace airportChallenge
 {
     public class Plane
     {
+        
         public Plane() {
-            throw new NotImplementedException();
+        }
+
+        public bool IsFlying() {
+            return true;
         }
     }
 }

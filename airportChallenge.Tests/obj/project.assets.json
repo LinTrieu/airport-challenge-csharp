@@ -5892,11 +5892,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/student/Documents/cSharp/csharp-airport/airportChallenge.Tests/airportChallenge.Tests.csproj",
+      "projectUniqueName": "/Users/student/csharp/csharp-airport/airportChallenge.Tests/airportChallenge.Tests.csproj",
       "projectName": "airportChallenge.Tests",
-      "projectPath": "/Users/student/Documents/cSharp/csharp-airport/airportChallenge.Tests/airportChallenge.Tests.csproj",
+      "projectPath": "/Users/student/csharp/csharp-airport/airportChallenge.Tests/airportChallenge.Tests.csproj",
       "packagesPath": "/Users/student/.nuget/packages/",
-      "outputPath": "/Users/student/Documents/cSharp/csharp-airport/airportChallenge.Tests/obj/",
+      "outputPath": "/Users/student/csharp/csharp-airport/airportChallenge.Tests/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -5913,8 +5913,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "/Users/student/Documents/cSharp/csharp-airport/airportChallenge/airportChallenge.csproj": {
-              "projectPath": "/Users/student/Documents/cSharp/csharp-airport/airportChallenge/airportChallenge.csproj"
+            "/Users/student/csharp/csharp-airport/airportChallenge/airportChallenge.csproj": {
+              "projectPath": "/Users/student/csharp/csharp-airport/airportChallenge/airportChallenge.csproj"
             }
           }
         }
