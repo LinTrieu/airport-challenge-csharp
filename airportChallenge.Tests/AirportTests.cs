@@ -1,6 +1,7 @@
 using NUnit.Framework;
 using airportChallenge;
 using Moq;
+using System.Linq;
 
 namespace airportChallenge.UnitTests
 {
@@ -60,6 +61,14 @@ namespace airportChallenge.UnitTests
        {
            var type =_airport.GetType();
            Assert.IsTrue(type.GetMethod("Land") != null);
+       }
+
+       [Test]
+       public void PlaneIsNoLongerFLying() 
+       {
+           _plane.Setup(x => x.IsFlying()).Returns(false);
+           _airport.Land(_plane);
+           Assert.IsFalse(_plane.IsFlying());
        }
     }
 }
