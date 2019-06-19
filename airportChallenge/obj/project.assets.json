@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/student/csharp/csharp-airport/airportChallenge/airportChallenge.csproj",
+      "projectUniqueName": "/Users/student/Documents/cSharp/csharp-airport/airportChallenge/airportChallenge.csproj",
       "projectName": "airportChallenge",
-      "projectPath": "/Users/student/csharp/csharp-airport/airportChallenge/airportChallenge.csproj",
+      "projectPath": "/Users/student/Documents/cSharp/csharp-airport/airportChallenge/airportChallenge.csproj",
       "packagesPath": "/Users/student/.nuget/packages/",
-      "outputPath": "/Users/student/csharp/csharp-airport/airportChallenge/obj/",
+      "outputPath": "/Users/student/Documents/cSharp/csharp-airport/airportChallenge/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

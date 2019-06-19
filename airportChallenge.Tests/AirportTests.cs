@@ -67,8 +67,8 @@ namespace airportChallenge.UnitTests
        public void PlaneIsNoLongerFLying() 
        {
            _plane.Setup(x => x.IsFlying()).Returns(false);
-           _airport.Land(_plane);
-           Assert.IsFalse(_plane.IsFlying());
+        //    _airport.Land(_plane);
+           Assert.AreEqual(false, _plane.Object.IsFlying());
        }
     }
 }

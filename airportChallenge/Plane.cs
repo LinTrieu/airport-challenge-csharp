@@ -8,7 +8,7 @@ namespace airportChallenge
         public Plane() {
         }
 
-        public bool IsFlying() {
+        public virtual bool IsFlying() {
             return true;
         }
     }
