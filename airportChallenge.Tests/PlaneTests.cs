@@ -15,13 +15,13 @@ namespace airportChallenge.UnitTests
         }
 
         [Test]
-        public void ReturnsInstanceOf()
+        public void PlaneReturnsInstanceOfPlane()
         {
             Assert.IsInstanceOf(typeof(Plane), _plane);
         }
 
         [Test]
-        public void canRespondToFlying()
+        public void PlaneCanRespondToFlying()
         {
             //arange
             var type = _plane.GetType();
