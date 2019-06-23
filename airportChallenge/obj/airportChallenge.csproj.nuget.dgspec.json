@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/linna@paddle.com/week_eight/csharp-airport/airportChallenge/airportChallenge.csproj": {}
+    "/Users/linna@paddle.com/week_eight/airport-challenge-cs/airportChallenge/airportChallenge.csproj": {}
   },
   "projects": {
-    "/Users/linna@paddle.com/week_eight/csharp-airport/airportChallenge/airportChallenge.csproj": {
+    "/Users/linna@paddle.com/week_eight/airport-challenge-cs/airportChallenge/airportChallenge.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/linna@paddle.com/week_eight/csharp-airport/airportChallenge/airportChallenge.csproj",
+        "projectUniqueName": "/Users/linna@paddle.com/week_eight/airport-challenge-cs/airportChallenge/airportChallenge.csproj",
         "projectName": "airportChallenge",
-        "projectPath": "/Users/linna@paddle.com/week_eight/csharp-airport/airportChallenge/airportChallenge.csproj",
+        "projectPath": "/Users/linna@paddle.com/week_eight/airport-challenge-cs/airportChallenge/airportChallenge.csproj",
         "packagesPath": "/Users/linna@paddle.com/.nuget/packages/",
-        "outputPath": "/Users/linna@paddle.com/week_eight/csharp-airport/airportChallenge/obj/",
+        "outputPath": "/Users/linna@paddle.com/week_eight/airport-challenge-cs/airportChallenge/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

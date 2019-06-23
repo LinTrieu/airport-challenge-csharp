@@ -23,13 +23,8 @@ namespace airportChallenge.UnitTests
         [Test]
         public void PlaneCanRespondToFlying()
         {
-            //arange
             var type = _plane.GetType();
-            //act
-
-            //assert
             Assert.IsTrue(type.GetMethod("IsFlying") != null);
         }
-
     }
 }
